@@ -1,0 +1,6 @@
+av 12
+ac 12
+adv 13
+ad 14
+aba 12
+af ac
