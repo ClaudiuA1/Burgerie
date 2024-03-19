@@ -58,24 +58,9 @@ namespace Tema_lab2
 
                 }
             }
-             if (checkBox9.Checked)
-            {
-                pbFries.Image = Properties.Resources.Fries;
-                pbFries.SizeMode = PictureBoxSizeMode.Zoom;
-            }
-            else
-            {
-                pbFries.Image = null;
-            }
-            if (checkBox10.Checked)
-            {
-                pbSoda.Image = Properties.Resources.Soda;
-                pbSoda.SizeMode = PictureBoxSizeMode.Zoom;
-            }
-            else
-            {
-                pbSoda.Image = null;
-            }
+            
+                pbFries.Image =(checkBox9.Checked)? Properties.Resources.Fries:null;
+                pbSoda.Image =(checkBox10.Checked)? Properties.Resources.Soda:null;
 
             PictureBox pictureBox2 = new PictureBox();
             pictureBox2.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -84,14 +69,12 @@ namespace Tema_lab2
             pictureBox2.Padding = new Padding(0);
             flowLayoutPanel1.Controls.Add(pictureBox2);
 
-           
-
-
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("The order will be delivered soon!", "Enjoy");
+            MessageBox.Show("The order will be delivered soon!", "Enjoy!");
+            
         }
     }
 }

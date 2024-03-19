@@ -261,6 +261,7 @@
             this.pbFries.Location = new System.Drawing.Point(129, 0);
             this.pbFries.Name = "pbFries";
             this.pbFries.Size = new System.Drawing.Size(128, 403);
+            this.pbFries.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbFries.TabIndex = 1;
             this.pbFries.TabStop = false;
             // 
@@ -271,6 +272,7 @@
             this.pbSoda.Location = new System.Drawing.Point(3, 0);
             this.pbSoda.Name = "pbSoda";
             this.pbSoda.Size = new System.Drawing.Size(124, 400);
+            this.pbSoda.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbSoda.TabIndex = 0;
             this.pbSoda.TabStop = false;
             // 
