@@ -88,5 +88,10 @@ namespace Tema_lab2
 
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("The order will be delivered soon!", "Enjoy");
+        }
     }
 }

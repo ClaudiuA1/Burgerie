@@ -10,3 +10,15 @@ C:\Users\claudiu\Desktop\Facultate\An3\II\Tema_lab2\obj\Debug\Tema_lab2.csproj.C
 C:\Users\claudiu\Desktop\Facultate\An3\II\Tema_lab2\obj\Debug\Tema_lab2.exe
 C:\Users\claudiu\Desktop\Facultate\An3\II\Tema_lab2\obj\Debug\Tema_lab2.pdb
 C:\Users\claudiu\Desktop\Facultate\An3\II\Tema_lab2\obj\Debug\Tema_lab2.Form2.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\bin\Debug\Tema_lab2.exe.config
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\bin\Debug\Tema_lab2.exe
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\bin\Debug\Tema_lab2.pdb
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.csproj.AssemblyReference.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.Form1.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.Form2.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.Properties.Resources.resources
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.csproj.GenerateResource.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.csproj.CoreCompileInputs.cache
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.exe
+C:\Users\claudiu\Desktop\Facultate\An3\II\Burgerie\Burgerie\obj\Debug\Tema_lab2.pdb
