@@ -17,7 +17,7 @@ namespace Tema_lab2
             InitializeComponent();
         }
 
-       
+
 
         private void btnPreview_Click(object sender, EventArgs e)
         {
@@ -58,9 +58,9 @@ namespace Tema_lab2
 
                 }
             }
-            
-                pbFries.Image =(checkBox9.Checked)? Properties.Resources.Fries:null;
-                pbSoda.Image =(checkBox10.Checked)? Properties.Resources.Soda:null;
+
+            pbFries.Image = (checkBox9.Checked) ? Properties.Resources.Fries : null;
+            pbSoda.Image = (checkBox10.Checked) ? Properties.Resources.Soda : null;
 
             PictureBox pictureBox2 = new PictureBox();
             pictureBox2.SizeMode = PictureBoxSizeMode.AutoSize;
@@ -74,7 +74,7 @@ namespace Tema_lab2
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("The order will be delivered soon!", "Enjoy!");
-            
+
         }
     }
 }

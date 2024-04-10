@@ -69,7 +69,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label1.Location = new System.Drawing.Point(467, 36);
+            this.label1.Location = new System.Drawing.Point(582, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(223, 29);
             this.label1.TabIndex = 1;
@@ -77,6 +77,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.Yellow;
             this.groupBox1.Controls.Add(this.radioVegan);
             this.groupBox1.Controls.Add(this.radioChicken);
             this.groupBox1.Controls.Add(this.radioBeef);
@@ -122,6 +123,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.BackColor = System.Drawing.Color.Yellow;
             this.groupBox2.Controls.Add(this.checkBox8);
             this.groupBox2.Controls.Add(this.checkBox7);
             this.groupBox2.Controls.Add(this.checkBox6);
@@ -129,7 +131,7 @@
             this.groupBox2.Controls.Add(this.checkBox4);
             this.groupBox2.Location = new System.Drawing.Point(12, 199);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(722, 117);
+            this.groupBox2.Size = new System.Drawing.Size(722, 132);
             this.groupBox2.TabIndex = 4;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Components";
@@ -137,7 +139,7 @@
             // checkBox8
             // 
             this.checkBox8.AutoSize = true;
-            this.checkBox8.Location = new System.Drawing.Point(460, 44);
+            this.checkBox8.Location = new System.Drawing.Point(458, 60);
             this.checkBox8.Name = "checkBox8";
             this.checkBox8.Size = new System.Drawing.Size(64, 20);
             this.checkBox8.TabIndex = 4;
@@ -147,7 +149,7 @@
             // checkBox7
             // 
             this.checkBox7.AutoSize = true;
-            this.checkBox7.Location = new System.Drawing.Point(577, 43);
+            this.checkBox7.Location = new System.Drawing.Point(575, 59);
             this.checkBox7.Name = "checkBox7";
             this.checkBox7.Size = new System.Drawing.Size(73, 20);
             this.checkBox7.TabIndex = 3;
@@ -157,7 +159,7 @@
             // checkBox6
             // 
             this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(306, 43);
+            this.checkBox6.Location = new System.Drawing.Point(304, 59);
             this.checkBox6.Name = "checkBox6";
             this.checkBox6.Size = new System.Drawing.Size(80, 20);
             this.checkBox6.TabIndex = 2;
@@ -167,7 +169,7 @@
             // checkBox5
             // 
             this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(164, 43);
+            this.checkBox5.Location = new System.Drawing.Point(162, 59);
             this.checkBox5.Name = "checkBox5";
             this.checkBox5.Size = new System.Drawing.Size(76, 20);
             this.checkBox5.TabIndex = 1;
@@ -177,7 +179,7 @@
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(46, 44);
+            this.checkBox4.Location = new System.Drawing.Point(44, 60);
             this.checkBox4.Name = "checkBox4";
             this.checkBox4.Size = new System.Drawing.Size(76, 20);
             this.checkBox4.TabIndex = 0;
@@ -186,6 +188,7 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.BackColor = System.Drawing.Color.Yellow;
             this.groupBox3.Controls.Add(this.checkBox10);
             this.groupBox3.Controls.Add(this.checkBox9);
             this.groupBox3.Location = new System.Drawing.Point(13, 337);
@@ -280,6 +283,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.ClientSize = new System.Drawing.Size(1498, 562);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnPreview);
